@@ -42,7 +42,6 @@ nav ul li a:hover {
 
 main {
   padding: 20px;
-text-align:center;
 }
 
 footer {
@@ -78,4 +77,7 @@ footer {
 .blog-list ul li a:hover {
   background-color: #f4f4f4;
   transform: translateY(-2px);
+}
+.index-main {
+  text-align: center;
 }
